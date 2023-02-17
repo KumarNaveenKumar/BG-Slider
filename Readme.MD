@@ -1,1 +1,1 @@
-https://github.com/KumarNaveenKumar/node-jcg13g/settings
+https://kumarnaveenkumar.github.io/BG-Slider/
